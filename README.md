@@ -6,5 +6,6 @@ Name: Zainab Shakeel
 Roll no: 271047965
 Major: CS
 Semester: 3rd
-Courses: COMP200, COMP111
+Courses: COMP111,COMP200
+
 
